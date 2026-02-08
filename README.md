@@ -20,5 +20,8 @@ All queries were written and executed during classroom practice using Docker.
 ## File Structure
 - `sql_practice_questions.sql` – Contains all questions and solutions
 
+## How to Run
+QUeries can be executed in any SQL environmnet after creating the required tables.
+
 ## Author
 Reju Karkee
